@@ -1,0 +1,31 @@
+h1 {
+    margin: 40px;
+    text-align: center;
+    font-size: 45px;
+  }
+
+  h2 {
+    text-align: center;
+    padding: 8px;
+    font-size: 35px;
+  }
+
+  form{
+    padding: 12px;
+  }
+
+  button {
+    padding: 10px 10px;
+    font-size: 20px;
+    font-style: oblique;
+    border-radius: 10px;
+    margin: 40px auto;
+}
+
+body{
+    background-color: rgb(216, 216, 216);
+  }
+  
+  button:focus {
+    outline: none;
+  }
